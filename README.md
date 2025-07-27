@@ -1,5 +1,5 @@
 # Project-task--Steganography-Tool-for-Image-File-Hiding
-# 🖼️ Image Steganography Tool 🕵️‍♀️
+#  Image Steganography Tool 
 
 A Python-based GUI tool that lets you **hide secret text messages inside images** using LSB (Least Significant Bit) steganography.
 
@@ -15,7 +15,7 @@ A Python-based GUI tool that lets you **hide secret text messages inside images*
 - [Project Structure](#project-structure)
 - [License](#license)
 
----
+
 
 ##  About
 
